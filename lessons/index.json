@@ -3,16 +3,16 @@
   "current": "seattle-difficulty-5",
   "lessons": [
     {
+      "id": "seattle-difficulty-5",
+      "title": "시애틀 추장의 편지 · 난이도별 5문장",
+      "count": 5,
+      "published": "2026-10-06T07:28:16.635Z"
+    },
+    {
       "id": "complex-63-64",
       "title": "복잡한 문장 읽기",
       "count": 7,
       "published": "2026-10-06T05:27:59.440Z"
-    },
-    {
-      "id": "seattle-difficulty-5",
-      "title": "시애틀 추장의 편지 · 난이도별 5문장",
-      "count": 5,
-      "published": "2026-10-06T05:27:17.949Z"
     }
   ]
 }
